@@ -1,2 +1,2 @@
 # ImageGallery
-Image Gallery using Grid
+Image Gallery using Grid.
